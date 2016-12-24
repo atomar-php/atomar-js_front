@@ -1,0 +1,6 @@
+{
+  "name": "JS Front",
+  "description": "Adds the ability to create advanced JS Front End web apps",
+  "version": "1.1",
+  "core": "4.x"
+}
